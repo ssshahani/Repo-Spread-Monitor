@@ -1135,7 +1135,7 @@ def main():
                 ### Federal Reserve Liquidity Tools
 
                 **1. Standing Repo Facility (SRF)**
-                - Allows banks to borrow overnight at 4.50% (currently)
+                - Allows banks to borrow overnight (rate adjusts with policy)
                 - Automatic backstop - no Fed discretion needed
                 - Usage indicates stress when significantly elevated
                 - Created after 2019 crisis to prevent repeat
@@ -1164,7 +1164,7 @@ def main():
                 **6. Interest on Reserve Balances (IORB)**
                 - Sets floor for overnight rates
                 - Can be adjusted to influence spreads
-                - Currently 4.40%
+                - Rate set by Fed policy (typically at top of fed funds range)
 
                 ### When Does Fed Intervene?
 
